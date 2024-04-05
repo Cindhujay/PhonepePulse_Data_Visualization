@@ -31,6 +31,9 @@ PhonepePulse is a data analytics platform that provides insights into digital pa
 
 **File Structure**
 *app.py: Main application file containing the Streamlit code.
+
 *phonepepulse.db: SQLite3 database file containing the PhonepePulse data.
+
 *requirements.txt: List of Python dependencies required for the project.
+
 *README.md: This file providing an overview of the project.
