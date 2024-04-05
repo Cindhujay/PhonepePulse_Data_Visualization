@@ -38,9 +38,9 @@ This application leverages the data from PhonepePulse and visualizes it in an in
 
 **File Structure**
 
-*app.py: Main application file containing the Streamlit code.
+*Phonepe.py: Main application file containing the Streamlit code.
 
-*phonepepulse.db: SQLite3 database file containing the PhonepePulse data.
+*pulse.db: SQLite3 database file containing the Pulse data.
 
 *requirements.txt: List of Python dependencies required for the project.
 
